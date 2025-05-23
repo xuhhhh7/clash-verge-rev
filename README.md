@@ -28,7 +28,7 @@ Supports Windows (x64/x86), Linux (x64/arm64) and macOS 10.15+ (intel/apple).
 ### TG 频道: [@clash_verge_rev](https://t.me/clash_verge_re)
 
 ## Promotion
-
+精灵学院 三毛机场
 [狗狗加速 —— 技术流机场 Doggygo VPN](https://verge.dginv.click/#/register?code=oaxsAGo6)
 
 - 高性能海外机场，免费试用，优惠套餐，解锁流媒体，全球首家支持 Hysteria 协议。
